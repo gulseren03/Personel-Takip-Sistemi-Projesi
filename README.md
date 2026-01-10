@@ -35,4 +35,7 @@ Ana Menü, insan kaynakları personel takip sistemi kullanıcılarının tüm si
 İzin İşlemleri, insan kaynakları personel takip sistemi kullanıcılarının izin işlemlerini görüntülemesini sağlayan paneldir.Kullanıcılar yetkileri doğrultusunda çeşitli işlemleri bu ekran üzerinden gerçekleştirebilir. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Personel Yönetimi
-![Personel Yönetimi](
+![Personel Yönetimi](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Personel%20y%C3%B6netimi%20ekran%C4%B1.png)
+Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre Yeni personel ekleme, düzenleme, silme, Departman, görev ve maaş bilgilerini görüntüleyebilmesini sağlayan paneldir. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
+
+
