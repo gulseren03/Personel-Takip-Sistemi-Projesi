@@ -27,4 +27,8 @@
 Giriş Sayfası, insan kaynakları personel takip sistemi kullanıcılarının uygulamaya erişim sağlamasını ve yetkilerine göre doğru sayfaya yönlendirilmesini sağlar. Kullanıcı adı, şifre ve rol bilgilerine göre, sistem ilgili kullanıcının bir Personel mi, İK mı yoksa Yönetici mi olduğunu kontrol eder ve bu doğrultuda uygun sayfayı açar.
 
 ### Ana Menü
-![Ana Menü](
+![Ana Menü](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Ana%20men%C3%BC.png)
+Ana Menü, insan kaynakları personel takip sistemi kullanıcılarının tüm sistem özelliklerine erişebileceği merkezi bir kontrol panelidir. Kullanıcılar yetkileri doğrultusunda çeşitli işlemleri bu ekran üzerinden gerçekleştirebilir. Personel İK ve Yönetici rolleri için uygun erişim izinleri sağlanmıştır.
+
+### İzin İşlemleri
+![İzin İşlemleri](
