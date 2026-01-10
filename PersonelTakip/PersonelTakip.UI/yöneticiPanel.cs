@@ -1,4 +1,5 @@
-﻿using MySql.Data.MySqlClient;
+﻿// test
+using MySql.Data.MySqlClient;
 using personelTakip.DAL;
 using System;
 using System.Collections.Generic;
