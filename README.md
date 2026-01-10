@@ -41,8 +41,12 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 
 ### Performans Ekranı
 ![Performans](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Performans%20ekran%C4%B1.png)
-Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre performans puanları girebilme ekranıdır.
+Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre performans puanları girebilme ekranıdır. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Maaş Hesaplama Ekranı
-![ Maaş Hesaplama](
+![ Maaş Hesaplama](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Maa%C5%9F%20hesaplama%20ekran%C4%B1.png)
+Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre Maaş, prim, kesinti bilgileri ve Net maaş hesaplamalarının görüntülenebilmesini sağlar. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
+
+### Raporlama Ekranı
+![Raporlama](
 
