@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# projelerim\\PersonelTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\departmanlarformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\departmanlarformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|c:\\c# projelerim\\personeltakip\\personeltakip.ui\\y\u00F6neticimaasrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\y\u00F6neticimaasrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\y\u00F6neticimaasrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\y\u00F6neticimaasrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|c:\\c# projelerim\\personeltakip\\personeltakip.ui\\departmanlarformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\departmanlarformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\y\u00F6neticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\y\u00F6neticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\y\u00F6neticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\y\u00F6neticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\raporlarformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\raporlarformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\raporlarformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\raporlarformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\personelpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\personelpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\personelpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\personelpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\personelekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\personelekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\personelekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\personelekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\maashesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\maashesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\ikperformansekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\ikperformansekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\ikperformansekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\ikperformansekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\forms\\ikizinolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\forms\\ikizinolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\maashesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\maashesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\frmanapanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\frmanapanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\frmanapanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\frmanapanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\personellerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\personellerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\\u0130kpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\\u0130kpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\girisekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\girisekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\girisekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\girisekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\\u0130kpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\\u0130kpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.bll\\maasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|solutionrelative:personeltakip.bll\\maasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.bll\\maasbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|solutionrelative:personeltakip.bll\\maasbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.ui\\\u0130kpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F9C5A2-3ED3-4B5C-982F-F58CEF4B5AD3}|PersonelTakip.UI\\PersonelTakip.UI.csproj|solutionrelative:personeltakip.ui\\\u0130kpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\personeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\personeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\maas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\maas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.bll\\personelbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|solutionrelative:personeltakip.bll\\personelbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\izindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\izindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.bll\\izinbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|solutionrelative:personeltakip.bll\\izinbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\performansdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\performansdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\performans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\performans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\raporlardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\raporlardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.bll\\girisbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|solutionrelative:personeltakip.bll\\girisbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\girisdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\girisdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.bll\\raporlarbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|solutionrelative:personeltakip.bll\\raporlarbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.dal\\departmandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDC999F-C12F-4FFD-9025-C99BA961F2BF}|personelTakip.DAL\\personelTakip.DAL.csproj|solutionrelative:personeltakip.dal\\departmandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|C:\\c# projelerim\\PersonelTakip\\personeltakip.bll\\departmanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5BE884-D1DA-4FCF-B725-8C6FB465BDC6}|PersonelTakip.BLL\\PersonelTakip.BLL.csproj|solutionrelative:personeltakip.bll\\departmanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmanlarFormu.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\DepartmanlarFormu.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\DepartmanlarFormu.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\DepartmanlarFormu.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\DepartmanlarFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:55:18.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RaporlarFormu.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\RaporlarFormu.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\RaporlarFormu.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\RaporlarFormu.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\RaporlarFormu.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAewD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:47:26.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Y\u00F6neticiMaasRapor.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\Y\u00F6neticiMaasRapor.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\Y\u00F6neticiMaasRapor.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\Y\u00F6neticiMaasRapor.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\Y\u00F6neticiMaasRapor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:19:51.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Y\u00F6neticiMaasRapor.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\Y\u00F6neticiMaasRapor.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\Y\u00F6neticiMaasRapor.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\Y\u00F6neticiMaasRapor.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\Y\u00F6neticiMaasRapor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:30:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmanlarFormu.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\DepartmanlarFormu.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\DepartmanlarFormu.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\DepartmanlarFormu.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\DepartmanlarFormu.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv1EAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:28:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RaporlarFormu.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\RaporlarFormu.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\RaporlarFormu.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\RaporlarFormu.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\RaporlarFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:34:17.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "y\u00F6neticiPanel.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\y\u00F6neticiPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\y\u00F6neticiPanel.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\y\u00F6neticiPanel.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\y\u00F6neticiPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:00:18.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "y\u00F6neticiPanel.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\y\u00F6neticiPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\y\u00F6neticiPanel.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\y\u00F6neticiPanel.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\y\u00F6neticiPanel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:47:35.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonelPanel.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\PersonelPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\PersonelPanel.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\PersonelPanel.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\PersonelPanel.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAawFsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:52:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonelPanel.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\PersonelPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\PersonelPanel.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\PersonelPanel.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\PersonelPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:16:40.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonelEkleForm.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\PersonelEkleForm.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\PersonelEkleForm.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\PersonelEkleForm.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\PersonelEkleForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA5wCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:10:26.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonelEkleForm.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\PersonelEkleForm.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\PersonelEkleForm.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\PersonelEkleForm.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\PersonelEkleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:02:19.811Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaasHesaplama.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\MaasHesaplama.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\MaasHesaplama.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\MaasHesaplama.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\MaasHesaplama.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:07:43.956Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IKPerformansEkle.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\IKPerformansEkle.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\IKPerformansEkle.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\IKPerformansEkle.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\IKPerformansEkle.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:03:11.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IKPerformansEkle.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\IKPerformansEkle.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\IKPerformansEkle.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\IKPerformansEkle.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\IKPerformansEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:41:10.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IKIzinOlustur.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\Forms\\IKIzinOlustur.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\Forms\\IKIzinOlustur.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\Forms\\IKIzinOlustur.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\Forms\\IKIzinOlustur.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAApwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:44:06.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MaasHesaplama.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\MaasHesaplama.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\MaasHesaplama.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\MaasHesaplama.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\MaasHesaplama.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0oAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:47:07.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmAnaPanel.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\FrmAnaPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\FrmAnaPanel.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\FrmAnaPanel.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\FrmAnaPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:35:02.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmAnaPanel.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\FrmAnaPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\FrmAnaPanel.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\FrmAnaPanel.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\FrmAnaPanel.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAASwJoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:46:49.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonellerDAL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\PersonellerDAL.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\PersonellerDAL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\PersonellerDAL.cs",
+              "RelativeToolTip": "personelTakip.DAL\\PersonellerDAL.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAD4vy0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:44:22.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "\u0130KPanel.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\\u0130KPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\\u0130KPanel.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\\u0130KPanel.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\\u0130KPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:00:53.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GirisEkran\u0131.cs [Design]",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\GirisEkran\u0131.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\GirisEkran\u0131.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\GirisEkran\u0131.cs [Design]",
+              "RelativeToolTip": "PersonelTakip.UI\\GirisEkran\u0131.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:11:50.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GirisEkran\u0131.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\GirisEkran\u0131.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\GirisEkran\u0131.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\GirisEkran\u0131.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\GirisEkran\u0131.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:30:36.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "\u0130KPanel.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\\u0130KPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\\u0130KPanel.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\\u0130KPanel.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\\u0130KPanel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:03:44.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MaasDAL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\MaasDAL.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.BLL\\MaasDAL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\MaasDAL.cs",
+              "RelativeToolTip": "PersonelTakip.BLL\\MaasDAL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:59:29.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MaasBLL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\MaasBLL.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.BLL\\MaasBLL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\MaasBLL.cs",
+              "RelativeToolTip": "PersonelTakip.BLL\\MaasBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:04:26.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "\u0130KPanel.Designer.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\\u0130KPanel.Designer.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.UI\\\u0130KPanel.Designer.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.UI\\\u0130KPanel.Designer.cs",
+              "RelativeToolTip": "PersonelTakip.UI\\\u0130KPanel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T17:16:18.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Personeller.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\Personeller.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\Personeller.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\Personeller.cs",
+              "RelativeToolTip": "personelTakip.DAL\\Personeller.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T15:21:44.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Maas.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\Maas.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\Maas.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\Maas.cs",
+              "RelativeToolTip": "personelTakip.DAL\\Maas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:11:48.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IzinDAL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\IzinDAL.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\IzinDAL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\IzinDAL.cs",
+              "RelativeToolTip": "personelTakip.DAL\\IzinDAL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:15:44.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PersonelBLL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\PersonelBLL.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.BLL\\PersonelBLL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\PersonelBLL.cs",
+              "RelativeToolTip": "PersonelTakip.BLL\\PersonelBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:31:57.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IzinBLL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\IzinBLL.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.BLL\\IzinBLL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\IzinBLL.cs",
+              "RelativeToolTip": "PersonelTakip.BLL\\IzinBLL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:34:06.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "\u0130zin.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\\u0130zin.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\\u0130zin.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\\u0130zin.cs",
+              "RelativeToolTip": "personelTakip.DAL\\\u0130zin.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:15:14.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PerformansDAL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\PerformansDAL.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\PerformansDAL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\PerformansDAL.cs",
+              "RelativeToolTip": "personelTakip.DAL\\PerformansDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:16:34.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Performans.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\Performans.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\Performans.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\Performans.cs",
+              "RelativeToolTip": "personelTakip.DAL\\Performans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:15:00.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RaporlarDAL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\RaporlarDAL.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\RaporlarDAL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\RaporlarDAL.cs",
+              "RelativeToolTip": "personelTakip.DAL\\RaporlarDAL.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwGQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:33:28.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GirisBLL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\GirisBLL.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.BLL\\GirisBLL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\GirisBLL.cs",
+              "RelativeToolTip": "PersonelTakip.BLL\\GirisBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:27:44.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RaporlarBLL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\RaporlarBLL.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.BLL\\RaporlarBLL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\RaporlarBLL.cs",
+              "RelativeToolTip": "PersonelTakip.BLL\\RaporlarBLL.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:33:47.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DepartmanDAL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\DepartmanDAL.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\DepartmanDAL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\DepartmanDAL.cs",
+              "RelativeToolTip": "personelTakip.DAL\\DepartmanDAL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:59:14.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GirisDAL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\GirisDAL.cs",
+              "RelativeDocumentMoniker": "personelTakip.DAL\\GirisDAL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\personelTakip.DAL\\GirisDAL.cs",
+              "RelativeToolTip": "personelTakip.DAL\\GirisDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:27:04.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DepartmanBLL.cs",
+              "DocumentMoniker": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\DepartmanBLL.cs",
+              "RelativeDocumentMoniker": "PersonelTakip.BLL\\DepartmanBLL.cs",
+              "ToolTip": "C:\\c# projelerim\\PersonelTakip\\PersonelTakip.BLL\\DepartmanBLL.cs",
+              "RelativeToolTip": "PersonelTakip.BLL\\DepartmanBLL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:59:34.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

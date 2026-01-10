@@ -1,0 +1,5 @@
+C:\c# projelerim\PersonelTakip\IKIzinOlustur\obj\Debug\IKIzinOlustur.csproj.AssemblyReference.cache
+C:\c# projelerim\PersonelTakip\IKIzinOlustur\obj\Debug\IKIzinOlustur.Form1.resources
+C:\c# projelerim\PersonelTakip\IKIzinOlustur\obj\Debug\IKIzinOlustur.Properties.Resources.resources
+C:\c# projelerim\PersonelTakip\IKIzinOlustur\obj\Debug\IKIzinOlustur.csproj.GenerateResource.cache
+C:\c# projelerim\PersonelTakip\IKIzinOlustur\obj\Debug\IKIzinOlustur.csproj.CoreCompileInputs.cache
