@@ -49,7 +49,7 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre Maaş, prim, kesinti bilgileri ve Net maaş hesaplamalarının görüntülenebilmesini sağlar. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Raporlama Ekranı
-![Raporlama](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Raporlar%20ekran%C4%B1.png)
+![Raporlama](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/rporlar.png)
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre  Tarih, departman veya personel bazlı filtreleme ile çeşitli raporlar alınmasını sağlayan paneldir.Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 
