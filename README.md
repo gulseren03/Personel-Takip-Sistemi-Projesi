@@ -79,4 +79,6 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 
   
  ## ▶️ Youtube Video
+
+ Youtube proje videosunu izlemek için [Tıklayın](https://youtu.be/slmLDC-Dqhg)
   
