@@ -46,6 +46,7 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 
 ### Maaş Hesaplama Ekranı
 ![ Maaş Hesaplama](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/maas%20hesaplama%20yeni.png)
+
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre Maaş, prim, kesinti bilgileri ve Net maaş hesaplamalarının görüntülenebilmesini sağlar. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Raporlama Ekranı
