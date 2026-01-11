@@ -2,7 +2,7 @@
 
  Bu proje, bir işletmedeki çalışanların bilgilerinin, izin durumlarının, maaş bilgilerinin ve performanslarının takip edilmesini amaçlar. Amaç, insan kaynakları süreçlerini dijitalleştirip raporlanabilir hale getirmektir.
 
- ## Proje Özellikleri
+ ## :pushpin: Proje Özellikleri
 
 - **Giriş Ekranı** : Kullanıcı adı ve parola ile giriş yapılır. Rolüne göre menüdeki erişimler belirlenir.
 - **Personel Yönetimi** : Yeni personel ekleme, düzenleme, silme. Departman, görev, maaş bilgileri.
@@ -12,7 +12,7 @@
 - **Performans Değerlendirme** : Performans puanları ve dönemsel analiz.
 - **Raporlama Ekranı** : Tarih, departman veya personel bazlı filtreleme ile çeşitli raporlar alınır.
 
- ## Kullanılan Teknolojiler
+ ## :computer: Kullanılan Teknolojiler
 
 - **C#** (.NET Framework)
 - **Windows Forms** (Masaüstü uygulama tasarımı)
@@ -20,7 +20,7 @@
 - **Entity Layer**: Katmanlı mimari (DAL, BLL)
 - **Responsive Tasarım**: Modern ve kullanıcı dostu arayüz.
 
-## Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
 
 ### Giriş Sayfası
 ![Giriş Sayfası](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/giri%C5%9F%20sayfas%C4%B1.png)
@@ -51,17 +51,17 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 ![Raporlama](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Raporlar%20ekran%C4%B1.png)
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre  Tarih, departman veya personel bazlı filtreleme ile çeşitli raporlar alınmasını sağlayan paneldir.Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
-## Kullanım
+## 📂 Kullanım
 
 1. Projeyi [indirin](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/tree/main)
 2. **Visual Studio** kullanarak projeyi açın.
-3. Gerekli **MySQL** bağlantı ayarlarını !!!!!!!!!! dosyasından yapılandırın.
+3. Gerekli **MySQL** bağlantı ayarlarını ***Db.cs*** dosyasından yapılandırın.
 4. Uygulamayı çalıştırın ve giriş ekranından kullanıcı bilgilerinizi girerek başlayın.        
 
 
 
 
-## Proje Yapısı
+## 🛠️ Proje Yapısı
 
 - **DAL (Data Access Layer)**: Veritabanı işlemleri.
 - **BLL (Business Logic Layer)**: İş mantığı.
@@ -69,7 +69,7 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 - **MySQL**: Veritabanı bağlantı ve sorguları.
 
 
-## İletişim
+## 📞 İletişim
 
 - **Ad** : Gülseren
 - **Soyad** : Memiş
