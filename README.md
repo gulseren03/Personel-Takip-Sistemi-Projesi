@@ -2,7 +2,7 @@
 
  Bu proje, bir işletmedeki çalışanların bilgilerinin, izin durumlarının, maaş bilgilerinin ve performanslarının takip edilmesini amaçlar. Amaç, insan kaynakları süreçlerini dijitalleştirip raporlanabilir hale getirmektir.
 
- ## Proje Özellikleri
+ ## :pushpin: Proje Özellikleri
 
 - **Giriş Ekranı** : Kullanıcı adı ve parola ile giriş yapılır. Rolüne göre menüdeki erişimler belirlenir.
 - **Personel Yönetimi** : Yeni personel ekleme, düzenleme, silme. Departman, görev, maaş bilgileri.
@@ -12,7 +12,7 @@
 - **Performans Değerlendirme** : Performans puanları ve dönemsel analiz.
 - **Raporlama Ekranı** : Tarih, departman veya personel bazlı filtreleme ile çeşitli raporlar alınır.
 
- ## Kullanılan Teknolojiler
+ ## :computer: Kullanılan Teknolojiler
 
 - **C#** (.NET Framework)
 - **Windows Forms** (Masaüstü uygulama tasarımı)
@@ -20,7 +20,7 @@
 - **Entity Layer**: Katmanlı mimari (DAL, BLL)
 - **Responsive Tasarım**: Modern ve kullanıcı dostu arayüz.
 
-## Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
 
 ### Giriş Sayfası
 ![Giriş Sayfası](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/giri%C5%9F%20sayfas%C4%B1.png)
@@ -33,10 +33,11 @@ Ana Menü, insan kaynakları personel takip sistemi kullanıcılarının tüm si
 ### İzin İşlemleri Ekranı
 ![İzin İşlemleri](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Personel%20izin%20ekran%C4%B1.png)
 ![İzin İşlemleri](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/%C4%B0K%20%C4%B0zin%20olu%C5%9Ftur%20ekran%C4%B1.png)
+![İzin İşlemleri](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/y%C3%B6netici%20izin%20ekran%C4%B1.png)
 İzin İşlemleri, insan kaynakları personel takip sistemi kullanıcılarının izin işlemlerini görüntülemesini sağlayan paneldir.Kullanıcılar yetkileri doğrultusunda çeşitli işlemleri bu ekran üzerinden gerçekleştirebilir. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Personel Yönetimi Ekranı
-![Personel Yönetimi](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Personel%20y%C3%B6netimi%20ekran%C4%B1.png)
+![Personel Yönetimi](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/performans%20y%C3%B6netimi%20yeni.png)
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre personelleri görüntüleyebilme,ekleme ve silme işlemleri sağlayan paneldir. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Performans Ekranı
@@ -44,24 +45,25 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre performans puanları girebilme ve tüm personellerin performans puanlarının görüntülendiği ekrandır. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Maaş Hesaplama Ekranı
-![ Maaş Hesaplama](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Maa%C5%9F%20hesaplama%20ekran%C4%B1.png)
+![ Maaş Hesaplama](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/maas%20hesaplama%20yeni.png)
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre Maaş, prim, kesinti bilgileri ve Net maaş hesaplamalarının görüntülenebilmesini sağlar. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Raporlama Ekranı
 ![Raporlama](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Raporlar%20ekran%C4%B1.png)
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre  Tarih, departman veya personel bazlı filtreleme ile çeşitli raporlar alınmasını sağlayan paneldir.Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
-## Kullanım
+
+
+
+## 📂 Kullanım
 
 1. Projeyi [indirin](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/tree/main)
 2. **Visual Studio** kullanarak projeyi açın.
-3. Gerekli **MySQL** bağlantı ayarlarını !!!!!!!!!! dosyasından yapılandırın.
+3. Gerekli **MySQL** bağlantı ayarlarını ***Db.cs*** dosyasından yapılandırın.
 4. Uygulamayı çalıştırın ve giriş ekranından kullanıcı bilgilerinizi girerek başlayın.        
 
 
-
-
-## Proje Yapısı
+## 🛠️ Proje Yapısı
 
 - **DAL (Data Access Layer)**: Veritabanı işlemleri.
 - **BLL (Business Logic Layer)**: İş mantığı.
@@ -69,13 +71,15 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 - **MySQL**: Veritabanı bağlantı ve sorguları.
 
 
-## İletişim
+## 📞 İletişim
 
 - **Ad** : Gülseren
 - **Soyad** : Memiş
 - **Tel No** : +90 538 230 1921
 - **E Posta** : [gulseren20051979@gmail.com](gulseren20051979@gmail.com)
-  
 
-  ## Youtube Video
+  
+ ## ▶️ Youtube Video
+
+ Youtube proje videosunu izlemek için [Tıklayın](https://youtu.be/slmLDC-Dqhg)
   
