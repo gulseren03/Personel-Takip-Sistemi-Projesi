@@ -32,7 +32,7 @@ Ana Menü, insan kaynakları personel takip sistemi kullanıcılarının tüm si
 
 ### İzin İşlemleri Ekranı
 ![İzin İşlemleri](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/ik%20izin%20olustur.png))
-![İzin İşlemleri](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/%C4%B0K%20%C4%B0zin%20olu%C5%9Ftur%20ekran%C4%B1.png)
+![İzin İşlemleri](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/personel%20%C4%B1z%C4%B1n%20olusturma.png)
 ![İzin İşlemleri](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/y%C3%B6netici%20izin%20ekran%C4%B1.png)
 İzin İşlemleri, insan kaynakları personel takip sistemi kullanıcılarının izin işlemlerini görüntülemesini sağlayan paneldir.Kullanıcılar yetkileri doğrultusunda çeşitli işlemleri bu ekran üzerinden gerçekleştirebilir. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
