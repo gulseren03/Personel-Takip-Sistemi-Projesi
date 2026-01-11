@@ -23,7 +23,7 @@
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Sayfası
-![Giriş Sayfası](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/giri%C5%9F%20sayfas%C4%B1.png)
+![Giriş Sayfası](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Giri%C5%9F%20ekran%C4%B1.png)
 Giriş Sayfası, insan kaynakları personel takip sistemi kullanıcılarının uygulamaya erişim sağlamasını ve yetkilerine göre doğru sayfaya yönlendirilmesini sağlar. Kullanıcı adı, şifre ve rol bilgilerine göre, sistem ilgili kullanıcının bir Personel mi, İK mı yoksa Yönetici mi olduğunu kontrol eder ve bu doğrultuda uygun sayfayı açar.
 
 ### Ana Menü
