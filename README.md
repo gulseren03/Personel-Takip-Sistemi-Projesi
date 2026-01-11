@@ -51,14 +51,15 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 ![Raporlama](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Raporlar%20ekran%C4%B1.png)
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre  Tarih, departman veya personel bazlı filtreleme ile çeşitli raporlar alınmasını sağlayan paneldir.Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
+
+
+
 ## 📂 Kullanım
 
 1. Projeyi [indirin](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/tree/main)
 2. **Visual Studio** kullanarak projeyi açın.
 3. Gerekli **MySQL** bağlantı ayarlarını ***Db.cs*** dosyasından yapılandırın.
 4. Uygulamayı çalıştırın ve giriş ekranından kullanıcı bilgilerinizi girerek başlayın.        
-
-
 
 
 ## 🛠️ Proje Yapısı
@@ -75,7 +76,7 @@ Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının
 - **Soyad** : Memiş
 - **Tel No** : +90 538 230 1921
 - **E Posta** : [gulseren20051979@gmail.com](gulseren20051979@gmail.com)
-  
 
-  ## Youtube Video
+  
+ ## ▶️ Youtube Video
   
