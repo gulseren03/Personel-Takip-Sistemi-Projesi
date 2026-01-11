@@ -41,7 +41,7 @@ Ana Menü, insan kaynakları personel takip sistemi kullanıcılarının tüm si
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre personelleri görüntüleyebilme,ekleme ve silme işlemleri sağlayan paneldir. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Performans Ekranı
-![Performans](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-01-10%20174054.png)
+![Performans](https://github.com/gulseren03/Personel-Takip-Sistemi-Projesi/blob/main/ik%20performans%20ekle.png)
 Personel Yönetimi,insan kaynakları personel takip sistemi kullanıcılarının rollerine göre performans puanları girebilme ve tüm personellerin performans puanlarının görüntülendiği ekrandır. Personel İK ve Yönetici rolleri için erişim izinleri sağlanmıştır.
 
 ### Maaş Hesaplama Ekranı
